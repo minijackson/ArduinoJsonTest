@@ -1,0 +1,10 @@
+{
+	"name": "Jack",
+	"address": {
+		"country" : "Freedonia",
+		"street"  : "Albert Einstein",
+		"number"  : 42,
+		"ZIP"     : 1337
+	},
+	"alive": false
+}
